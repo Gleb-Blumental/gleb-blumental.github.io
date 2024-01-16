@@ -2,6 +2,8 @@
 
 Jag heter Gleb Blumental
 
+Read more [about me](/aboutme.md)
+
 ## Utbildning
 
 - Jensen YH
